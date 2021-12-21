@@ -1,0 +1,20 @@
+# Project information
+site_name: ORAYLIS - Advanced DAX
+
+# Repository
+repo_name: 'AdvancedDax'
+repo_url: 'https://github.com/mriehle/AdvancedDax/'
+
+theme:
+  name: material
+  font:
+    text: Arial
+  features:
+    - header.autohide 
+  language: en
+  palette:
+    scheme: oraylis
+  logo: stylesheets/favicon-76.png
+
+extra_css:  
+  - stylesheets/extra.css
